@@ -1,5 +1,0 @@
-if(EXISTS "C:/Users/darli/CLionProjects/LW 2( bit realise)/cmake-build-debug/tests/number_tests[1]_tests.cmake")
-  include("C:/Users/darli/CLionProjects/LW 2( bit realise)/cmake-build-debug/tests/number_tests[1]_tests.cmake")
-else()
-  add_test(number_tests_NOT_BUILT number_tests_NOT_BUILT)
-endif()
