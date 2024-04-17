@@ -1,3 +1,0 @@
-C:/Users/darli/CLionProjects/LW1/cmake-build-debug/CMakeFiles/LW1.dir
-C:/Users/darli/CLionProjects/LW1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/darli/CLionProjects/LW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
